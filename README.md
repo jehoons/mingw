@@ -11,5 +11,3 @@ by default, it is set to /c/Users/...
 
 ### step 3. install applications such as git and python. 
 
-
-

@@ -97,3 +97,5 @@ endif
 
 colorscheme darkblue
 set nu
+set tabstop=4
+set softtabstop=4
